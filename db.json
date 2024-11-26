@@ -1,13 +1,13 @@
 {
   "variants":[
-    {
+    {  "name":"chaussette",
       "id":2001,
       "color": "green",
       "image": "assets/socks_green.jpg",
       "quantity": 50,
       "details":["50% laine","10% mmm","20% hh"]
     },
-    {
+    {  "name":"chaussette",
       "id":2002,
       "color": "blue",
       "image": "assets/socks_blue.jpg",
