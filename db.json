@@ -4,13 +4,15 @@
       "id":2001,
       "color": "green",
       "image": "assets/socks_green.jpg",
-      "quantity": 50
+      "quantity": 50,
+      "details":["50% laine","10% mmm","20% hh"]
     },
     {
       "id":2002,
       "color": "blue",
       "image": "assets/socks_blue.jpg",
-      "quantity": 0
+      "quantity": 0,
+      "details":["50% laine","10% mmm","20% hh"]
     }
   ]
 }
