@@ -1,7 +1,7 @@
 {
   "variants":[
     {
-      "id":2001
+      "id":2001,
       "color": "green",
       "image": "assets/socks_green.jpg",
       "quantity": 50
