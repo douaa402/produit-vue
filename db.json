@@ -5,14 +5,14 @@
       "color": "green",
       "image": "@/assets/socks_green.jpg",
       "quantity": 50,
-      "details":["50% laine","10% mmm","20% hh"]
+      "details":["50% coton","30% laine","20% polyester"]
     },
     {  "name":"chaussette",
       "id":2002,
       "color": "blue",
       "image": "@/assets/socks_blue.jpg",
       "quantity": 0,
-      "details":["50% laine","10% mmm","20% hh"]
+      "details":["50% coton","30% laine","20% polyester"]
     }
   ]
 }
